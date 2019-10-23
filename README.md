@@ -1,4 +1,7 @@
 # Quantum Library : A scalable C++ coroutine framework
+# Оригинальный код Блумберг  
+https://github.com/bloomberg/quantum  
+
 [![Build status](https://travis-ci.com/bloomberg/quantum.svg?branch=master)](https://travis-ci.org/bloomberg/quantum) 
 
 **Quantum** is a full-featured and powerful C++ framework build on top of the [Boost coroutine](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html) library. The framework allows users to dispatch units of work (a.k.a. _tasks_) as coroutines and execute them concurrently using the 'reactor' pattern.
