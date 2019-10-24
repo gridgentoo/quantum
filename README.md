@@ -1,5 +1,5 @@
-# Quantum Library : A scalable C++ coroutine framework
-# Оригинальный код Блумберг  
+## Quantum Library : A scalable C++ coroutine framework
+## Оригинальный код Блумберг  
 https://github.com/bloomberg/quantum  
 
 [![Build status](https://travis-ci.com/bloomberg/quantum.svg?branch=master)](https://travis-ci.org/bloomberg/quantum) 
